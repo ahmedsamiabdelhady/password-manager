@@ -1,5 +1,5 @@
 # password-manager
-# decription:
+# description:
 A password manager is a computer program that allows users to store and manage their passwords for local applications or online services such as web applications, online shops or social media.
 
 Password manager can generate passwords, and copy automatically it to the clipboard.
